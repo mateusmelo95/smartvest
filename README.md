@@ -1,7 +1,7 @@
 # SmartVest
 Colete Inteligente ou SmartVest é um projeto de um conjunto de sensores acoplados a um colete posicionado nas costas do usuário para monitoramento de estímulos e movimentos corporais
 
-![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHfsz6NmAE_V79lEFHSSMoyOq71m2EbPIrDJXexpQWduaMFotcVF0yCeqcB1wuKEmbvNMgLmGJQX-WK6HZtbOOlXxB5ynYz7adB83BwUHD6gKAPl6ARfitaNE0R-KW-HqewCvTcG4cqSoe4MrEMDjvZ4=w842-h632-s-no?authuser=0)
+![Mobile 1](https://lh3.googleusercontent.com/pw/ADCreHeVSYXXmOEeV69z7higvWBPsbzy-u8pXsaFdNVE4AA3cXYGRtEad6oPKKqyYTbOkNv__ElFsp4BdCx95vE2NPSR96vUG9wsJxq1m39xlsTBYh1cGuZzebJrN_F05znl9gPxnZDg9J5--n3B7ljBiMuS=w842-h842-s-no?authuser=0)
 
 # Sobre o projeto
 
